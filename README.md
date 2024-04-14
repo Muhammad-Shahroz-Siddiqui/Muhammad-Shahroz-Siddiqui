@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Shahroz-Siddiqui?tab=repositories](https://github.com/Muhammad-Shahroz-Siddiqui?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Muhammad-Shahroz-Siddiqui?tab=repositories)
 
-- 📫 How to reach me **muhammadshahroz10@yahoo.com**
+- 📫 You can reach me at **muhammadshahroz10@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-shahroz-siddiqui/](https://www.linkedin.com/in/muhammad-shahroz-siddiqui/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/muhammad-shahroz-siddiqui/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
