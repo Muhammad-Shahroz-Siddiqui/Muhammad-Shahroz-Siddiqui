@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-shahroz-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-shahroz-siddiqui" /> </p>
 
-- 🔭 I’m currently working on [VividLearn](https://github.com/ahsan-cell/VividLearn)
+- 🔭 I’m currently working at [Codegic](https://codegic.com)
 
-- 🌱 I’m currently learning **MERN, Django**
+- 🌱 I’m currently working with **Java, React**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Muhammad-Shahroz-Siddiqui?tab=repositories)
 
