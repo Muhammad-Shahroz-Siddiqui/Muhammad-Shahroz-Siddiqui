@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Codegic](https://codegic.com)
 
-- 🌱 I’m currently working with **Java, React**
+- 🌱 I’m currently working with **Java (Spring Boot), React**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Muhammad-Shahroz-Siddiqui?tab=repositories)
 
